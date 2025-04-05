@@ -169,9 +169,6 @@ footer {
 	margin-bottom: 10px;
 	font-size: 30px;
 }
-section{
-	padding:10px;
-}
 
 article{
 	border-radius: 20px;
@@ -179,11 +176,11 @@ article{
 	width: 350px;
 	height: 360px;
 	background-image:linear-gradient(red, yellow);
-  margin: 10px;
+  margin: 40px;
 }
 article img{
-	width: 300px;
-	height:225px ;
+	width: 330px;
+	height:250px ;
 }
 article a{
 	text-decoration: none;
